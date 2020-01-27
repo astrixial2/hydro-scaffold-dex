@@ -1,0 +1,7 @@
+{
+  "name": "hydro-scaffold-dex2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/astrixial2/hydro-scaffold-dex.git",
+  "license": "MIT"
+}
